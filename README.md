@@ -7,7 +7,7 @@
 ## ✨ Features
 
 - **AI Chat with Ollama Backend**  
-  Uses the qv-ollama-sdk for fast, local or cloud-based AI responses.
+  Uses the qv-ollama-sdk for fast, local LLM backend powered by Ollama.
 - **Session Management**  
   Organize, save, and manage multiple chat sessions in parallel.
 - **Intuitive UI**  
