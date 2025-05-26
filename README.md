@@ -14,7 +14,7 @@
   Modern, responsive design with NiceGUI and a native sidebar (drawer).
 - **Quick Session Switching**  
   Easily switch, delete, or start new sessions.
-- **Open Source & Modular**  
+- **Build with Open Source Components & Modular**  
   Clear separation of UI, backend, and session logic for maximum flexibility.
 
 ---
