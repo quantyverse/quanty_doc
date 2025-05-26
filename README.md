@@ -34,7 +34,7 @@
 
 ## 📥 Download & Access
 
-The app is currently available for download and as a demo at:
+The app is currently available at:
 
 👉 **[quantyverse.ai](https://quantyverse.ai)**
 
